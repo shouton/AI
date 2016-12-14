@@ -1,2 +1,2 @@
 # AI
-A playground of artificial intelligence 
+A playground for artificial intelligence 
